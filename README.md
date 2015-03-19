@@ -7,4 +7,5 @@ start: start the normal snake game
 
 auto: snake using A* Algorithm to find food automatically
 
-#press space to pause the game
+
+press space to pause the game
